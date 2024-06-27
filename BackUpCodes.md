@@ -1,0 +1,18 @@
+Two-Factor Authentication Backup Codes
+Workspace: J9122Mux - https://j9122.slack.com/
+Email: mbedval@gmail.com
+
+258952495
+864262401
+602596435
+486261153
+490362486
+753916525
+825917558
+386767328
+726871790
+510295855
+
+
+
+
