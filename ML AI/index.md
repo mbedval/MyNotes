@@ -1,6 +1,6 @@
-This is your new *vault*. for Collecting Notes for Learning ML
+Starting page to plan learning ML and AI related concepts
 
-Pre-requisites Suggestion
+#### Pre-requisites Suggestion
 
 - Python
 - Mathematics
@@ -8,8 +8,9 @@ Pre-requisites Suggestion
 - Machine Learning
 - NLP
 
-
-### Basic Mathematics
+### Python
+### MATHEMATICS
+#### Basic Mathematics
 - Graph Theory
 - Multiplication/ Operations
 - Math Symbols
@@ -22,7 +23,7 @@ Pre-requisites Suggestion
 
 
 
-### Linear Algebra
+#### Linear Algebra
 - Vectors
 - Matrix
 - Dot Product
@@ -32,7 +33,7 @@ Pre-requisites Suggestion
 - Inverse
 - Determinant
 
-### Calculus
+#### Calculus
 - Differentiation Rules
 - Integration
 - Sum Rule
@@ -62,7 +63,7 @@ Pre-requisites Suggestion
 	- Conditional 
 
 
-### Machine Learning
+### MACHINE LEARNING
 - Supervised / Unsupervised
 - Classification/ Regression
 - Clustering
@@ -79,3 +80,6 @@ Pre-requisites Suggestion
 - K-Means / DBSCAN
 - Hierarchical Clustering
 - 
+
+### NATURAL LANGUAGE PROCESSING (NLP) 
+[NEED TO START]

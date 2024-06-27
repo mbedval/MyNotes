@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5eb9940ab9c4f748",
+        "id": "ddfa30ac99529f45",
         "type": "tabs",
         "children": [
           {
-            "id": "3b17e94372d5cdb9",
+            "id": "2691493e0a246cb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OS & Labs/virutalMachines.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OS & Labs/virutalMachines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OS & Labs/virutalMachines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OS & Labs/virutalMachines.md"
+              }
             }
           }
         ]
@@ -138,21 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b17e94372d5cdb9",
+  "active": "cea58eefc3b8cbcb",
   "lastOpenFiles": [
-    "Linux.md",
-    "MachineLearning/index ML.md",
-    "MachineLearning",
-    "BackUpCodes.md",
-    "Artificial Intelligence.md",
-    "Linear Regression.md",
-    "bitlocker.md",
-    "DevOps.md",
+    "Testing/Testing Concepts.md",
+    "Testing",
+    "Programming/PythonAddons.md",
+    "HealthCareSector/MedicalImaging.md",
+    "Databases",
+    "HealthCareSector",
+    "OS & Labs/Windows.md",
     "MB_SocialIdentity.md",
+    "OS & Labs/Linux.md",
+    "OS & Labs",
+    "ML AI/Linear Regression.md",
+    "RandomNotes/learningList.md",
+    "RandomNotes/jobs_Search.md",
+    "RandomNotes",
+    "ML AI/index.md",
+    "DevOps",
+    "bitlocker.md",
+    "BackUpCodes.md",
+    "ML AI/Artificial Intelligence.md",
+    "ML AI",
+    "DevOps/DevOps.md",
     "Programming/Python.md",
     "Social",
     "AutomationTesting/Cypress.md",
-    "jobs_Search.md",
     "AutomationTesting/Selenium.md",
     "AutomationTesting/Appium.md",
     "AutomationTesting/WebDriver.md",
@@ -161,18 +180,8 @@
     "AutomationTool/Cypress.md",
     "AutomationTesting/Playwright.md",
     "AutomationTool",
-    "Testing.md",
     "HeadSpinUniversity",
-    "learningList.md",
-    "virutalMachines.md",
-    "Microsoft/windows.md",
-    "Learning.md",
-    "Microsoft/AZ102.md",
-    "Microsoft",
-    "PythonAddons.md",
-    "Programming",
-    "CyberSecurityTools",
-    "Programming/Java.md",
-    "AutomationTesting"
+    "OS & Labs/virutalMachines.md",
+    "Microsoft/windows.md"
   ]
 }
