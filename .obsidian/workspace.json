@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ddfa30ac99529f45",
+        "id": "7482dcec25c6218e",
         "type": "tabs",
         "children": [
           {
-            "id": "2691493e0a246cb8",
+            "id": "6ad17bb3070e88fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/AutomationTesting/WebDriver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddbb5e1b5b6f1a8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity/Ethical Hacking.md",
+                "file": "Programming/Object Oriented Concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity/Ethical Hacking.md",
+                "file": "Programming/Object Oriented Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity/Ethical Hacking.md",
+                "file": "Programming/Object Oriented Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity/Ethical Hacking.md"
+                "file": "Programming/Object Oriented Concepts.md"
               }
             }
           }
@@ -159,13 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ddbb5e1b5b6f1a8f",
+  "active": "6ad17bb3070e88fd",
   "lastOpenFiles": [
+    "Programming/CSharp.md",
+    "Programming/Object Oriented Concepts.md",
+    "Testing/AutomationTesting/Selenium.md",
+    "Testing/DesignPattern/Difference Between.md",
+    "Testing/DesignPattern/Readme.md",
+    "Testing/DesignPattern/Data Driven Testing.md",
+    "Testing/DesignPattern/Singleton Design Pattern.md",
+    "Testing/DesignPattern/Facade Design Pattern.md",
+    "Testing/DesignPattern/Factory Design Pattern.md",
+    "Testing/DesignPattern/Lazy Loading.md",
+    "Testing/DesignPattern/Page Object Model.md",
+    "Testing/Testing Concepts.md",
+    "Testing/DesignPattern",
     "Testing/AutomationTesting/WebDriver.md",
     "CyberSecurity/Ethical Hacking.md",
     "CyberSecurity",
     "OS & Labs/virutalMachines.md",
-    "Testing/Testing Concepts.md",
     "Testing",
     "Programming/PythonAddons.md",
     "HealthCareSector/MedicalImaging.md",
@@ -183,19 +182,7 @@
     "DevOps",
     "bitlocker.md",
     "BackUpCodes.md",
-    "ML AI/Artificial Intelligence.md",
     "ML AI",
-    "DevOps/DevOps.md",
-    "Programming/Python.md",
-    "Social",
-    "Testing/AutomationTesting/Cypress.md",
-    "Testing/AutomationTesting/Selenium.md",
-    "Testing/AutomationTesting/Appium.md",
-    "Testing/AutomationTesting/REST.md",
-    "HeadSpinUniversity/1.TestAutomationWithPython.md",
-    "AutomationTool/Cypress.md",
-    "Testing/AutomationTesting/Playwright.md",
-    "AutomationTool",
-    "Microsoft/windows.md"
+    "Social"
   ]
 }
