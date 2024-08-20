@@ -58,6 +58,16 @@ name.Split()
 
 ```
 
+
+```
+string inputstring= "1 3 7 4";
+string[] arr2 = inputstring.Split(" ");
+Array.Sort(arr2);
+Console.WriteLine(String.Join(" ", arr2));
+
+//outoput [ 1 3 4 7]
+
+```
 ### Condition
 ```
 if (expression1){
