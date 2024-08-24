@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7482dcec25c6218e",
+        "id": "1b79247406be251d",
         "type": "tabs",
         "children": [
           {
-            "id": "6ad17bb3070e88fd",
+            "id": "256e42f53d60086b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/TestFramwork/MSTest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4432132e1192ba2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/DesignPattern/Data Driven Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4daec7c7420ca4b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/AutomationTesting/Tosca.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/AutomationTesting/Tosca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/AutomationTesting/Tosca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Testing/AutomationTesting/Tosca.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,18 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4daec7c7420ca4b5",
+  "active": "256e42f53d60086b",
   "lastOpenFiles": [
+    "Testing/TestFramwork/MSTest.md",
+    "Testing/DesignPattern/Data Driven Testing.md",
+    "Testing/AutomationTesting/Tosca.md",
     "Pasted image 20240823112353.png",
     "Images/Pasted image 20240823112020.png",
     "Images",
     "Images/Pasted image 20240823103037.png",
     "Intro.md",
-    "Testing/AutomationTesting/Tosca.md",
-    "Testing/DesignPattern/Data Driven Testing.md",
     "Programming/Object Oriented Concepts.md",
     "Programming/CSharp.md",
-    "Testing/TestFramwork/MSTest.md",
     "Testing/TestFramwork",
     "Testing/AutomationTesting/Selenium.md",
     "Testing/DesignPattern/Difference Between.md",

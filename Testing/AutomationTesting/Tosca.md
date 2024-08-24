@@ -1,4 +1,68 @@
 
+URL
+Test Manager: Source : https://www.youtube.com/watch?v=cXhlHjHBym0
+
+TBOX Theory - Engines and Framework
+File Operations : [Link](https://documentation.tricentis.com/tosca/1600/en/content/standard_subset/automation_tools/file_operations.htm)
+Folder Operations : [Link](https://documentation.tricentis.com/tosca/1600/en/content/standard_subset/automation_tools/folder_operations.htm)
+Expression Evaluation: [Link](https://documentation.tricentis.com/tosca/1600/en/content/standard_subset/automation_tools/expression_evaluation.htm)
+Basic Windows Operations : [Link](https://documentation.tricentis.com/tosca/1600/en/content/standard_subset/automation_tools/windows_operations.htm)
+XML: [Link](https://documentation.tricentis.com/tosca/1600/en/content/standard_subset/engines_3.0/xml.htm)
+JSON : [Link](https://documentation.tricentis.com/tosca/1600/en/content/standard_subset/engines_3.0/json.htm)
+Database : [Link](https://documentation.tricentis.com/tosca/1600/en/content/standard_subset/engines_3.0/database.htm)
+
+
+##### Import Excel in Qtest
+https://youtu.be/CmOaEaTxdvk
+
+- Download sample template 
+	- Click "Excel icon" on toolbar. and click "sample import template" hyper link
+	- Fill template with required details of testcases.
+> Sample template can have custom field which should be active in project. As admin you can select "Setting --> Field Settings" , using this you can add and make field active.
+> For new test case keep test case id blank , but to update add test case id, 
+
+- In Navigation panel select "Import Test case wizard"
+- Select Excel spreadsheet field , and map it will field of Test case (donot map test id for new test case)
+- 
+
+##### How to Create Test Run Configuration
+https://youtu.be/vMmtsy_zph0
+- Select Configuration Field settings in the administration Area
+- Configure "Variables" example Platform There are 2 variable Apple Device {iphone x, ipad mini, ipad Pro, Apple TV}, while  IOS version could be {iOS 11, iOS 12, iOS 13, iOS 14}
+- Using this variables configure "configuration Set" like Apple + IOS where it allow various combination
+- Now In "Test Execution" Tab, select Setting --> "Field Settings" , select Configuration and choose which configuration are needed in test planning
+- So that Test can select which configuration to use while Test Execution.
+- Once selection is done, qTest will generate and add test run comination 
+
+
+##### qTest Converting Manual automation testing to Automated testing
+https://www.youtube.com/watch?v=X6h6T5_DlTQ
+
+- Setting up 
+	- Install Automation Host
+	- Enable Automation Integration "Setting --> Automation Setting" 
+	- Execution Mapping
+- Test Conversion (Test Design Module)
+	- Convert individual test cases 
+		- In Test Design select Individual Test Case and Click "Convert" button 
+		- Add Unique Automation Content (i.e. name="testSum" classname="sample junit classtest" time="0.025")
+		- if we need test log to existing test run then it must match the automation content field
+	- Convert multiple test cases:
+		- Select multiple test cases and Right Click and click "Convert" item in right click menu
+	- Convert Data Query Result
+		- From System Query , result with Status "is Approve = 'yes'" select required test cases
+		- From Edit option Select "Batch Convert" icon
+		- In Batch convert select convert To "Automation"
+		- on completion, select "Input Automation Contents" button in Update progress dialog
+		- enter the "Automation Content" for converted test cases. (information like test class, test method, identifier is used to  point automation execution result to test run)
+
+> on conversion design tree changes from gree dot to a blue dot.
+
+
+
+
+
+
 #### Ticentis Tosca Offers two types of Workspaces
 - Single-user workspaces : for environments where only one person needs access to data.
 - Multi-user workspaces for environments where several people can access. It supports by check-in/ check-out mechanism that users don't interfere with each.
