@@ -37,30 +37,17 @@ print(len(fname))
 print(fname[0] , [name[0])
 print(fname[0]+ [name[0])
 
+mycityGreeting="Ahmedabad {} padharo".format( "is nice place")
+print(mycityGreeting)
+
 ```
 output	
 	M B
 	MB
+	"Ahmedabad is nice place padharo"
 
 
-##### 3. List
-**Description**: Collection of array which can be changed or re-ordered
-```
-Fruites = ['pineapple', 'mango', 'banana']
-# List allow the list combination of different type of datavalues
-MixList = ['pineapple', 'pasta', 1 , 5, True, 'Jan', 'Feb', False]
-print(MixList[1:5])
-MixList.append('Elephant')
-MixList.append(4,'Lion')
-print(MixList[1:5])
-MixList.reverse()
-print(MixList)
-```
 
-Output
-	['pasta', 1, 5, True]	
-	['pasta', 1, 5, 'Lion']
-	['Elephant', False, 'Feb', 'Jan', True, 'Lion', 5, 1, 'pasta', 'pineapple']
 
 ##### 3. Booleans
 	True/False
@@ -79,6 +66,11 @@ MixList.reverse()
 print(MixList)
 ```
 
+Output
+	['pasta', 1, 5, True]	
+	['pasta', 1, 5, 'Lion']
+	['Elephant', False, 'Feb', 'Jan', True, 'Lion', 5, 1, 'pasta', 'pineapple']
+
 ##### 5. Dictionary 
 Description: This is unordered list , Can be modified and cannot have duplicate entries . It is designed with {key: value}
 ```
@@ -89,6 +81,8 @@ print("Third Day of week is " , myWeekDictionary[3])
 ## Adding new item in the Dictionary
 myWeekDictionary[8] = "Holiday"
 print(myWeekDictionary)
+del myWeekDictionary[8]
+print(myWeekDictionary)
 ```
 
 Output
@@ -96,23 +90,29 @@ Output
 	Third Day of week is  Tue
 	{1: 'Sun', 2: 'Mon', 3: 'Tue', 4: 'Wed', 5: 'Thr', 6: 'Fri', 7: 'Sat', 8: 'Holiday'}
 
-##### 6. TUPLE
-Description: Ordered and unchangeable Collection.  Duplicate entries is allowed.
+> List and Dictionary are mutable while string, float, integer & Boolean are non-immutable. this can be confirmed with `id(variable)` which will return new identifier when new value is set to existing value.
 
+
+##### 6. TUPLE
+Description: Ordered and unchangeable Collection.  Duplicate entries is allowed. #nonMutable
+Tuple is immutable list
 ```
 tupleAnimal = ('dog', 'cow', 'tiger', 'cow' )
 print(tupleAnimal)
 print(tupleAnimal[1])
+print(tupleAnimal[1:3])
 CountCow = tupleAnimal.count('cow')
 print(CountCow)
+
 ```
 output
 	('dog', 'cow', 'tiger', 'cow')
 	cow
+	('cow', 'tiger')
 	2
 
 
-##### 6. SET
+##### 7. SET
 Description: Unordered collection, No Duplicate entries are present Collect
 ```
 print(" =====================" , "Set")
@@ -264,26 +264,91 @@ list()
 set()
 dict()
 
+### If Block
+
+```
+age=input("Enter your age")
+if (int(age)>16 and int(age)<18):
+    print("You are teen")
+elif (int(age)>=18 and int(age)<=60):
+    print("You are adult")
+else:
+    print("You are free birds")
+```
+
+### While Block
+```
+while (i<5)
+	print("hello {} time ".format(i))
+```
+
+### For Block
+```
+for i in range(10);
+	print(i)
+```
+
+#### lambda
+```
+op1= lambda x:x**2
+
+print(op1(4))
+print(op1(12))
+
+# //output
+# 16
+# 144
+```
+
+#### Reading File and Exception Handling
+```
+def SampleTryException():
+    try:
+        ReadFile=open("tes1.txt","r")
+        for line in ReadFile:
+            print(line)
+        ReadFile.close()
+    except IOError:
+        print("File not found")
+    print("App is closed successfully")
+ 
+
+SampleTryException()
+
+# //output
+# File not found
+# App is closed successfully
+```
+
+#### Writing file and Exception Handling
+
+
 #### Class
 
 static method
 - If method is not having 'self' as argument. Self is the conventional variable to refer to the class instance.
 - classname can be used to call the method. it is common to all instance of object.
 - class childclass(Dog) : here childclass is inheriting Dog attributes and method.
+-  isinstance(n1,newspaper) = results true if n1 is instance of newspaper class.
+- Instance method is a method that can be called on a specific instance of a class
+- Instance attribute that holds data specific to an instance of a class.
+- The key difference between class variable and instance variables is "Class variables are shared among all instances of the class, while instance variables are unique to each instance".
 - super() is used to get an instance of the the parent class.
 ```
 - super().append() #will allow to modify the method append in parent class
 - super().__init__() #will make sure parent constructor is class first.
 ```
-- isinstance(n1,newspaper) = results true if n1 is instance of newspaper class.
-- Instance method is a method that can be called on a specific instance of a class
-- Instance attribute that holds data specific to an instance of a class.
-- The key difference between class variable and instance variables is "Class variables are shared among all instances of the class, while instance variables are unique to each instance".
-- 
 
 
 
-Importing method(s) from the modules [ From <greeting>  import <goodMorning> ]  
+#### MAP Method
+
+
+#### Filter Function
+l
+
+
+
 
 - This declaration will import method goodMorning from the library (module) name greeting 
  - Instead of greeting you can specify complete path of the library package like src.lib.greeting 
@@ -294,12 +359,12 @@ Importing method(s) from the modules [ From <greeting>  import <goodMorning> 
 - But it is false to say they are very large with lots of business logic
 
 #### Importing method(s) from the modules  
-```
+
 from <greeting>  import <goodMorning> 
 import Src
 import Src.Lib as aliaslib
 import Src.Lib.Module
-```
+
 
 - This declaration will import method goodMorning from the library (module) name greeting 
 - Instead of greeting you can specify complete path of the library package like src.lib.greeting 
@@ -327,3 +392,8 @@ pip install spyder-kernels==2.4.*
 @staticMethod
 
 temp
+
+
+'''  '''
+
+

@@ -11,8 +11,14 @@
             "id": "256e42f53d60086b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python"
             }
           }
         ]
@@ -35,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,14 +68,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d1b6a2df36d4b1e2",
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Python"
             }
           },
           {
@@ -97,9 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Python"
             }
           },
           {
@@ -110,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Python.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Python"
             }
           }
         ]
@@ -140,6 +165,7 @@
   },
   "active": "256e42f53d60086b",
   "lastOpenFiles": [
+    "Testing/AutomationTesting/Cypress.md",
     "Testing/TestFramwork/MSTest.md",
     "Testing/DesignPattern/Data Driven Testing.md",
     "Testing/AutomationTesting/Tosca.md",
