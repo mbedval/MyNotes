@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d06fafd344a7b2",
+        "id": "91e801b9456df096",
         "type": "tabs",
         "children": [
           {
-            "id": "6c6f011bda3ba688",
+            "id": "a3555ff00784e4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/AutomationTesting/Puppeteer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Puppeteer"
+            }
+          },
+          {
+            "id": "32c530656be58f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +35,8 @@
               "title": "Playwright"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,25 +177,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c6f011bda3ba688",
+  "active": "32c530656be58f93",
   "lastOpenFiles": [
-    "Testing/AutomationTesting/Playwright_Python_Sample.md",
+    "Testing/AutomationTesting/Cypress.md",
+    "Testing/AutomationTesting/Puppeteer.md",
+    "Testing/AutomationTesting/Jest.md",
+    "Pasted image 20240823112353.png",
+    "Intro.md",
+    "[404.md",
     "Testing/AutomationTesting/Playwright.md",
+    "Untitled",
+    "Testing/AutomationTesting/Playwright_Python_Sample.md",
     "Testing/AutomationTesting/Selenium_Python.md",
     "Testing/AutomationTesting/Selenium.md",
     "Testing/AutomationTesting/Selenium_CSharp.md",
-    "[404.md",
     "Testing/AutomationTesting/WebDriver.md",
     "Programming/Python.md",
-    "Testing/AutomationTesting/Cypress.md",
     "Testing/TestFramwork/MSTest.md",
     "Testing/DesignPattern/Data Driven Testing.md",
     "Testing/AutomationTesting/Tosca.md",
-    "Pasted image 20240823112353.png",
     "Images/Pasted image 20240823112020.png",
     "Images",
     "Images/Pasted image 20240823103037.png",
-    "Intro.md",
     "Programming/Object Oriented Concepts.md",
     "Programming/CSharp.md",
     "Testing/TestFramwork",
@@ -195,13 +213,10 @@
     "Testing/DesignPattern",
     "CyberSecurity/Ethical Hacking.md",
     "CyberSecurity",
-    "OS & Labs/virutalMachines.md",
     "Testing",
-    "Programming/PythonAddons.md",
     "Databases",
     "HealthCareSector",
     "OS & Labs",
-    "RandomNotes",
-    "DevOps"
+    "RandomNotes"
   ]
 }
