@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9da8fa89b401b232",
+        "id": "03f5bb6581861d29",
         "type": "tabs",
         "children": [
           {
-            "id": "bcbbf3e3fad65020",
+            "id": "016685b1e4366d91",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RandomNotes/jobs_Search.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "jobs_Search"
             }
           }
         ]
@@ -158,14 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcbbf3e3fad65020",
+  "active": "016685b1e4366d91",
   "lastOpenFiles": [
+    "RandomNotes/learningList.md",
+    "RandomNotes/jobs_Search.md",
+    "Testing/AutomationTesting/Tosca.md",
+    "Testing/Images-testing/Pasted image 20240823112020.png",
+    "Testing/Images-testing/Pasted image 20240823103037.png",
     "CyberSecurity/Ethical Hacking.md",
     "CyberSecurity/Abbreviates.md",
     "CyberSecurity/Popular Ports.md",
     "CyberSecurity/Lab_Excercise.md",
-    "CyberSecurity/images/OSI-model-layers-attacks-Stackscale.jpg.avif",
-    "CyberSecurity/images",
+    "CyberSecurity/images-cs/OSI-model-layers-attacks-Stackscale.jpg.avif",
+    "CyberSecurity/images-cs",
     "CyberSecurity/OSI.md",
     "CyberSecurity/cehv11/outline.md",
     "CyberSecurity/cehv11/M010_cehv11.md",
@@ -194,14 +203,9 @@
     "CyberSecurity/cehv12/M060_SysemHacking.md",
     "CyberSecurity/cehv12/M070_MalwareThreats.md",
     "CyberSecurity/cehv12/M080_Sniffing.md",
-    "CyberSecurity/cehv12/M090_Social Engineering.md",
-    "CyberSecurity/cehv12/M100_Denial-Of-Service.md",
-    "CyberSecurity/cehv12/M110_SessionHacking.md",
     "CyberSecurity/cehv12",
     "Security",
-    "Pasted image 20240823112353.png",
-    "Images/Pasted image 20240823112020.png",
-    "Images",
+    "Testing/Images-testing",
     "Testing/TestFramwork",
     "Testing/DesignPattern",
     "CyberSecurity",
