@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "066ed9dbe881c491",
+        "id": "8e0764f44a5c51ad",
         "type": "tabs",
         "children": [
           {
-            "id": "5e5ac1e9ded6057a",
+            "id": "303ddfa91addbd91",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/AutomationTesting/Playwright_js.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Playwright_js"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,11 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e5ac1e9ded6057a",
+  "active": "303ddfa91addbd91",
   "lastOpenFiles": [
+    "Testing/AutomationTesting/Playwright_js.md",
     "Testing/AutomationTesting/Playwright.md",
     "Testing/AutomationTesting/Playwright_Python_Sample.md",
-    "Testing/AutomationTesting/Playwright_js.md",
     "Readme.md",
     "RandomNotes/chrome_PmlMKpJCUn.png",
     "Pasted image 20240823112353.png",
