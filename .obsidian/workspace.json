@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/DesignPattern/Page Object Model.md",
+                "file": "Programming/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Page Object Model"
+              "title": "JavaScript"
             }
           }
         ]
@@ -165,6 +165,15 @@
   },
   "active": "556e5aa9b9316e35",
   "lastOpenFiles": [
+    "Programming/Java.md",
+    "Programming/JavaScript.md",
+    "Testing/AutomationTesting/Playwright.md",
+    "Testing/AutomationTesting/Playwright_js.md",
+    "Testing/AutomationTesting/WebDriverIO.md",
+    "Testing/AutomationTesting/WebDriver.md",
+    "Testing/AutomationTesting/nightwatch v3.md",
+    "Programming/Object Oriented Concepts.md",
+    "Testing/DesignPattern/Page Object Model.md",
     "Testing/Testing Concepts.md",
     "Testing/TestFramwork/MSTest.md",
     "Testing/Images-testing/Pasted image 20240823103037.png",
@@ -175,17 +184,12 @@
     "Testing/AutomationTesting/Tosca.md",
     "Testing/AutomationTesting/Selenium_Python.md",
     "Testing/AutomationTesting/Selenium_CSharp.md",
-    "Testing/AutomationTesting/WebDriver.md",
     "Testing/AutomationTesting/Selenium.md",
-    "Programming/JavaScript.md",
-    "Programming/Java.md",
     "Programming/CSharp.md",
-    "Testing/AutomationTesting/Playwright_js.md",
     "ML AI/AI Learning plan by Perplexity.md",
     "ML AI/Trending AI Models.md",
     "Readme.md",
     "ML AI/Populuar",
-    "Testing/AutomationTesting/Playwright.md",
     "Testing/AutomationTesting/Playwright_Python_Sample.md",
     "RandomNotes/chrome_PmlMKpJCUn.png",
     "Pasted image 20240823112353.png",
@@ -200,10 +204,6 @@
     "CyberSecurity/cehv12/M042_Enumeration_LDAP.md",
     "CyberSecurity/cehv12/M180_IOT_OT_Hacking.md",
     "CyberSecurity/cehv12/M200_Cryptography.md",
-    "CyberSecurity/cehv12/M190_CloudComputing.md",
-    "CyberSecurity/cehv12/M170_HackingMobilePlatform.md",
-    "CyberSecurity/cehv12/M160_HAckingWirelessNetwork.md",
-    "CyberSecurity/cehv12/M150_SQLInjection.md",
     "CyberSecurity/cehv12/images",
     "CyberSecurity/cehv12",
     "CyberSecurity/cehv11",
