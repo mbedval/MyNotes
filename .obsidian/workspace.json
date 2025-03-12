@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "073b80b55a917bea",
+        "id": "1a24ae05b8432804",
         "type": "tabs",
         "children": [
           {
-            "id": "556e5aa9b9316e35",
+            "id": "89d7ca5c304e83a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/JavaScript.md",
+                "file": "Testing/AutomationTesting/POSTMAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript"
+              "title": "POSTMAN"
             }
           }
         ]
@@ -163,12 +163,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "556e5aa9b9316e35",
+  "active": "89d7ca5c304e83a2",
   "lastOpenFiles": [
-    "Programming/Java.md",
-    "Programming/JavaScript.md",
-    "Testing/AutomationTesting/Playwright.md",
+    "Testing/AutomationTesting/Playwright_Python_Sample.md",
+    "Testing/AutomationTesting/API Testing.md",
+    "Testing/AutomationTesting/Postman.md",
+    "Architecture",
+    "Testing/AutomationTesting/Playwright_py.md",
     "Testing/AutomationTesting/Playwright_js.md",
+    "Testing/AutomationTesting/Appium.md",
+    "Testing/AutomationTesting/POSTMAN.md",
+    "Programming/JavaScript.md",
+    "Programming/Java.md",
     "Testing/AutomationTesting/WebDriverIO.md",
     "Testing/AutomationTesting/WebDriver.md",
     "Testing/AutomationTesting/nightwatch v3.md",
@@ -178,7 +184,6 @@
     "Testing/TestFramwork/MSTest.md",
     "Testing/Images-testing/Pasted image 20240823103037.png",
     "Testing/Images-testing/Pasted image 20240823112020.png",
-    "Testing/AutomationTesting/Appium.md",
     "Testing/AutomationTesting/Cypress.md",
     "Testing/AutomationTesting/Jest.md",
     "Testing/AutomationTesting/Tosca.md",
@@ -190,7 +195,6 @@
     "ML AI/Trending AI Models.md",
     "Readme.md",
     "ML AI/Populuar",
-    "Testing/AutomationTesting/Playwright_Python_Sample.md",
     "RandomNotes/chrome_PmlMKpJCUn.png",
     "Pasted image 20240823112353.png",
     "Testing/Images-testing",
@@ -201,15 +205,11 @@
     "CyberSecurity/cehv12/images/Pasted image 20240824132452.png",
     "CyberSecurity/cehv12/images/Pasted image 20240618180348.png",
     "CyberSecurity/cehv12/images/Pasted image 20240623185138.png",
-    "CyberSecurity/cehv12/M042_Enumeration_LDAP.md",
-    "CyberSecurity/cehv12/M180_IOT_OT_Hacking.md",
-    "CyberSecurity/cehv12/M200_Cryptography.md",
     "CyberSecurity/cehv12/images",
     "CyberSecurity/cehv12",
     "CyberSecurity/cehv11",
     "Security/images",
     "Security/cehv11",
-    "Security/cehv12/images",
-    "Security/cehv12"
+    "Security/cehv12/images"
   ]
 }

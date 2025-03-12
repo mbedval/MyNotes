@@ -121,7 +121,7 @@ Verification Vs Validation:
 Automation Tools
 
 1. [[AutomationTool/Cypress]]  #javascript
-2. [[Playwright]] #javascript  #python #java #csharp
+2. [[Playwright_py]] #javascript  #python #java #csharp
 3. [[k6]] #javascript 
 4. [[Selenium]]
 
